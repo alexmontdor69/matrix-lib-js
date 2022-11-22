@@ -1,6 +1,6 @@
 {
   "name": "matrix-lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library for Matrix operation",
   "main": "matrix-lib.js",
   "scripts": {
