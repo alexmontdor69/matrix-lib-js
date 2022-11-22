@@ -8,3 +8,5 @@
 - transpose (A) : transpose a matrix At
 - multiply (A, B) : A.B
 
+__v0.0.2__
+- fix export bugs

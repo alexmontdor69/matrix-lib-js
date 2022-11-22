@@ -1,3 +1,5 @@
+'use strict'
+
 const transpose=(array)=>{
     // https://stackoverflow.com/questions/17428587/transposing-a-2d-array-in-javascript
     return  array[0].map((_, colIndex) => array.map(row => row[colIndex]));
@@ -21,4 +23,4 @@ const multiply=(a, b) => {
     return m;
   }
 
-export {transpose, multiply};
+  module.exports={transpose, multiply}
